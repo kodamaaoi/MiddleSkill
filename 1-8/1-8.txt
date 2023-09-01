@@ -21,11 +21,11 @@ eclipse内検索、ショートカットキー問題
 
 
 ⑤小文字を大文字に変換するショートカットキーは何ですか？
-「Ctrl + Shift + X or Ctrl + Alt + U」
+「Ctrl + Shift + X」
 
 
 ⑥大文字を小文字に変換するショートカットキーは何ですか？
-「Ctrl + Shift + Y or Ctrl + Alt + L」
+「Ctrl + Shift + Y」
 
 
 ⑦キャメルケース/スネークケースに変換するショートカットキーは何ですか？
