@@ -11,7 +11,8 @@ public class test1 {
 		System.out.println(num*2);
 		
 //		3.boolean型の変数の値に不正な文字列比較を入れてfalseを出力してください。	
-		boolean data = false;
-		System.out.println(data);
+		boolean A =true;
+		boolean B =false;
+		System.out.println(A==B);
 	}
 }
