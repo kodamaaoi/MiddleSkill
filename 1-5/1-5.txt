@@ -77,12 +77,15 @@ touch furuyama/sasaki.txt
 
 
 ⑪「furuyama」フォルダの「sasaki.txt」を開いてくだい。（エディタの起動）
-nano furuyama/sasaki.txt
+Vi furuyama/sasaki.txt
 
 
 
 ⑫エディタの起動後に入力モードに切り替え「hello world」と入力し保存して終了してください。
+I
 Hello world
+escキー
+:wq
 
 
 
